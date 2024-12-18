@@ -1,0 +1,47 @@
+.pain{
+    background-color: rgb(6, 67, 33);
+    color: white;  
+  }
+  .contenue{
+     height: 40px;
+     width: 400px;
+     border: solid colorwhite;
+     padding: 5px 30px 60px 0px;
+  }
+  div h3{
+      text-decoration: underline;
+  }
+  div{
+      border: solid grey;
+      width: 50%;
+      margin: 5px;
+      background-color: grey;
+  }
+  body{
+      background-color: black;
+  }
+  h1{
+      color: white;
+  }
+  p{
+      color: white;
+  }
+  h3{
+      color: white;
+  }
+  #me{
+      color: darkgray;
+  }
+  span{
+    color: darkgreen;
+  }
+  img{
+    height:400px;
+    width: 600px;
+    padding: 30px;
+    margin-left: 400px;
+  }
+.eau{
+    color: brown;
+    margin-left: 600px;
+}
